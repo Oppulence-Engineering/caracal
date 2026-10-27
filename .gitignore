@@ -112,3 +112,6 @@ apps/web/src/routeTree.gen.ts
 
 # Control plane runtime gate state (dev stack)
 infra/docker/control/
+
+# code-review-graph database (built per session)
+.code-review-graph/
