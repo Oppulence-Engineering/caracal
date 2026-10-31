@@ -24,7 +24,7 @@
     "@caracalai/server-core": "workspace:*",
     "@caracalai/engine": "workspace:*",
     "better-auth": "^1.7.1",
-    "nodemailer": "^9.0.4",
+    "nodemailer": "^10.1.4",
     "pg": "^8.23.0"
   },
   "devDependencies": {
